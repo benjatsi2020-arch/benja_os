@@ -11,7 +11,7 @@ cd /d "%~dp0"
 :inicio
 cls
 echo =======================================================
-echo          benja os (WINDOWS 11)  hecho por Benja   
+echo             benja os (WINDOWS) hecho por Benja   
 echo =======================================================
 echo.
 echo  [1] Ver Estado de benja os 
