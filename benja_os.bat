@@ -4,7 +4,7 @@ if not "%1"=="am_admin" (
     powershell -Command "Start-Process -FilePath '%0' -ArgumentList 'am_admin' -Verb RunAs" && exit
 )
 
-title benja os WINDOWS 11 hecho por Benja
+title benja os WINDOWS hecho por Benja
 color 1f
 cd /d "%~dp0"
 
